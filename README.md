@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somesh Debnath</h1>
+<h1 align="center">Hi 👋, I'm Debangsu Das</h1>
 <h3 align="center">An aspiring Computer Science Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-debnath&label=Profile%20views&color=0e75b6&style=flat" alt="bijankundu" /> </p>
@@ -9,7 +9,6 @@
 
 Connect with me:
 
-[![Git Logo](icon/twitter.png)](https://twitter.com/SomeshDebnath73)
 [![Git Logo](icon/linkedin.png)](https://www.linkedin.com/in/somesh-debnath-4001b31b3/)
 
 
@@ -20,8 +19,6 @@ Connect with me:
 
 
 ![Git Logo](icon/react.png)
-![Git Logo](icon/next.png)
-![Git Logo](icon/linux.png)
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="C" /></a>
                                  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
