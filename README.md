@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Web Projects**
 
-- 🌱 I’m currently learning **Linux,BlockChain**
-
 Connect with me:
 
 [![Git Logo](icon/linkedin.png)](https://www.linkedin.com/in/somesh-debnath-4001b31b3/)
